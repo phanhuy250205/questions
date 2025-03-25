@@ -1,3 +1,5 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import './style.css';
 import { quizCategories } from './questions.js';
 import { Quiz } from './quiz.js';
